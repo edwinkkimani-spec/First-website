@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  padding: 15px;
+}
+body{
+    background-color: rgb(21, 21, 179);
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
